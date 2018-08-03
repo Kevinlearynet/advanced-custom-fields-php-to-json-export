@@ -24,3 +24,7 @@ Generate a \*.json file using the _"Custom Fields > Export PHP as JSON_ menu ite
 ## Changelog
 
 * **1.0.0** - Official Release of the free version
+
+## Legal
+
+This plugin is released under the GPL (v3 or latest) license, which is [available here](license.md).

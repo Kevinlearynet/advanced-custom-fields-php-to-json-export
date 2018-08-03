@@ -20,6 +20,7 @@ Installing this plugin can be done either by searching for "Advanced Custom Fiel
 1. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Generate an export with the "Custom Fields > Export PHP as JSON" menu
+1. Remove any usage of the `acf_add_local_field_group()` function in your theme
 
 == Screenshots ==
 
